@@ -50,6 +50,16 @@ body {
     padding: 4px 8px;
     border-radius: 10px;
     background: #ffffff;
+    transition: 0.8s;
+  }
+
+  button:hover {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 10px;
+    background: rgb(254, 254, 2);
+    color: rgb(0, 97, 0);
+    font-weight: bold;
   }
   
   h2 {
