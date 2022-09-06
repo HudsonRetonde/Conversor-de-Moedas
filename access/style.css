@@ -39,6 +39,7 @@ body {
     margin: 12px;
     padding: 6px;
     border-radius: 5px;
+    width: 185px;
   }
   
   label {
@@ -51,6 +52,7 @@ body {
     border-radius: 10px;
     background: #ffffff;
     transition: 0.8s;
+    width: 200px;
   }
 
   button:hover {
